@@ -60,6 +60,7 @@ const Slide: React.FC<SlideProps> = ({
                     src={path}
                     style={{
                         width: "100%",
+                        maxHeight: "70vh",
                         height: "100%",
                         objectFit: "cover",
                     }}
