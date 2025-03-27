@@ -1,0 +1,61 @@
+:root {
+    --font: "Rubik", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    --text: 255, 255, 255, 0.87;
+    --textMuted: 255, 255, 255, 0.65;
+    --secText: 200, 200, 200, 0.87;
+
+    --dark1: 17, 19, 21;
+    --grey1: 37, 39, 41;
+    --grey2: 51, 53, 55;
+    --blue1: 25, 118, 210;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    overflow: hidden;
+    font-size: 62.5%;
+}
+
+#root {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(var(--dark1));
+}
+
+* {
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+h1,
+h2,
+p {
+    margin: 0;
+    color: rgb(var(--text));
+
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: var(--font);
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+.keen-slider {
+    align-items: center;
+}

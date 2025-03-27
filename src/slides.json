@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Hårdvaror, Sensorer & Begränsade Resurser",
+        "tags": ["Systemutveckling", "Hårdvara", "Sensorer"],
+        "description": "Vi fick i uppgift att skapa ett projekt kring en Arduino Uno R4 WiFi och valfria sensorer. Vi valde att använda en PiR sensor & en fotoresistor för att simulera en automatisk lampa som tänds i mörker när rörelse blir igenkänt. I samband med en tänd lampa lagrades en tidsstämpel och hur länge lampan var tänd i Arduinons 8kB EEPROM minne, vilket sedan kunde visas i kalenderintervaller på en LCD skärm.",
+        "path": "./linus_sensor_hardware.webp"
+    },
+    {
+        "title": "Spotify Klon",
+        "tags": ["Fullstack", "API"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ipsum urna, rhoncus sed faucibus at, porttitor a nibh. Phasellus quis hendrerit ex. Duis vel lobortis turpis. Donec sit amet sodales ante. Nulla facilisi. Sed ut odio ac erat mattis venenatis. Donec sodales dolor sem, vitae dapibus massa laoreet ut. Ut facilisis sodales nisi, a congue libero auctor in.",
+        "path": "https://images.unsplash.com/photo-1590004953392-5aba2e72269a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=500&w=800&q=80"
+    },
+    {
+        "title": "Test Titel",
+        "tags": ["Frontend", "Figma"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ipsum urna, rhoncus sed faucibus at, porttitor a nibh. Phasellus quis hendrerit ex. Duis vel lobortis turpis. Donec sit amet sodales ante. Nulla facilisi. Sed ut odio ac erat mattis venenatis. Donec sodales dolor sem, vitae dapibus massa laoreet ut. Ut facilisis sodales nisi, a congue libero auctor in.",
+        "path": "https://images.unsplash.com/photo-1590004987778-bece5c9adab6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=500&w=800&q=80"
+    },
+    {
+        "title": "Test Titel",
+        "tags": ["Fullstack", "Databas"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ipsum urna, rhoncus sed faucibus at, porttitor a nibh. Phasellus quis hendrerit ex. Duis vel lobortis turpis. Donec sit amet sodales ante. Nulla facilisi. Sed ut odio ac erat mattis venenatis. Donec sodales dolor sem, vitae dapibus massa laoreet ut. Ut facilisis sodales nisi, a congue libero auctor in.",
+        "path": "https://images.unsplash.com/photo-1590005176489-db2e714711fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&h=500&w=800&q=80"
+    }
+]
