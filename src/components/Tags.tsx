@@ -1,5 +1,3 @@
-// Absoltue places tags on screen
-
 const Tags = ({ tags }: { tags: string[] }) => {
     return (
         <div
